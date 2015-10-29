@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21739" started-at="2015-10-29T13:07:32Z" finished-at="2015-10-29T13:07:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21739" started-at="2015-10-29T13:07:32Z" finished-at="2015-10-29T13:07:54Z">
+      <class name="com.testng.tests.TestAnnotations2">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.testng.tests.TestAnnotations2@5a01ccaa]" name="beforeSuite" is-config="true" duration-ms="8" started-at="2015-10-29T09:07:32Z" finished-at="2015-10-29T09:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testng.tests.TestAnnotations2@5a01ccaa]" name="beforeTest" is-config="true" duration-ms="0" started-at="2015-10-29T09:07:32Z" finished-at="2015-10-29T09:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testng.tests.TestAnnotations2@5a01ccaa]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-10-29T09:07:32Z" finished-at="2015-10-29T09:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.testng.tests.TestAnnotations2@5a01ccaa]" name="test3" duration-ms="5" started-at="2015-10-29T09:07:32Z" finished-at="2015-10-29T09:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testng.tests.TestAnnotations2@5a01ccaa]" name="afterClass" is-config="true" duration-ms="0" started-at="2015-10-29T09:07:32Z" finished-at="2015-10-29T09:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.testng.tests.TestAnnotations2@5a01ccaa]" name="afterTest" is-config="true" duration-ms="0" started-at="2015-10-29T09:07:54Z" finished-at="2015-10-29T09:07:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.testng.tests.TestAnnotations2@5a01ccaa]" name="afterSuite" is-config="true" duration-ms="0" started-at="2015-10-29T09:07:54Z" finished-at="2015-10-29T09:07:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.testng.tests.TestAnnotations2 -->
+      <class name="com.testng.tests.TestAnnotations1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testng.tests.TestAnnotations1@71c7db30]" name="beforeClass" is-config="true" duration-ms="1" started-at="2015-10-29T09:07:32Z" finished-at="2015-10-29T09:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testng.tests.TestAnnotations1@71c7db30]" name="beforeMethod" is-config="true" duration-ms="6191" started-at="2015-10-29T09:07:32Z" finished-at="2015-10-29T09:07:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.testng.tests.TestAnnotations1@71c7db30]" name="test1" duration-ms="1881" started-at="2015-10-29T09:07:39Z" finished-at="2015-10-29T09:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.tests.TestAnnotations1@71c7db30]" name="afterMethod" is-config="true" duration-ms="210" started-at="2015-10-29T09:07:40Z" finished-at="2015-10-29T09:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testng.tests.TestAnnotations1@71c7db30]" name="beforeMethod" is-config="true" duration-ms="5011" started-at="2015-10-29T09:07:41Z" finished-at="2015-10-29T09:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.testng.tests.TestAnnotations1@71c7db30]" name="test2" duration-ms="1833" started-at="2015-10-29T09:07:46Z" finished-at="2015-10-29T09:07:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.tests.TestAnnotations1@71c7db30]" name="afterMethod" is-config="true" duration-ms="109" started-at="2015-10-29T09:07:48Z" finished-at="2015-10-29T09:07:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testng.tests.TestAnnotations1@71c7db30]" name="beforeMethod" is-config="true" duration-ms="4657" started-at="2015-10-29T09:07:48Z" finished-at="2015-10-29T09:07:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.testng.tests.TestAnnotations1@71c7db30]" name="test4" duration-ms="0" started-at="2015-10-29T09:07:52Z" finished-at="2015-10-29T09:07:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.tests.TestAnnotations1@71c7db30]" name="afterMethod" is-config="true" duration-ms="1760" started-at="2015-10-29T09:07:52Z" finished-at="2015-10-29T09:07:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testng.tests.TestAnnotations1@71c7db30]" name="afterClass" is-config="true" duration-ms="71" started-at="2015-10-29T09:07:54Z" finished-at="2015-10-29T09:07:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.testng.tests.TestAnnotations1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
